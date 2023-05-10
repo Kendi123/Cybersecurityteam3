@@ -7,5 +7,5 @@ We will achieve this through cloning an Instagram website then using it to test 
 LinkFury will come in as Instagram is directing the user to leave Instagram and go to the site of the link. It will then scan the link and alert the user if it is malicious before he or she goes to the site the link is directing them to.
 
 ## *Credits*
-StacyKibarak https://github.com/Stacy2021
-Boaz Juma https://github.com/0798002050
+- StacyKibarak https://github.com/Stacy2021
+- Boaz Juma https://github.com/0798002050
